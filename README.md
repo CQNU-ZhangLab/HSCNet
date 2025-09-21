@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="figures.png" width=90%> <br>
+  <img src="figures/figures.png" width=90%> <br>
   Overview of the <strong>HSCNet</strong> framework. The network is tailored for UAV object detection. (a) <strong>Backbone network</strong> adopts a lightweight design, integrates the Hierarchical Spatial-Frequency Complementary module to achieve dual-domain feature enhancement, and employs an improved downsampling strategy; (b) <strong>Neck network</strong> adopts an Efficiency-Driven design strategy to optimize the feature pyramid structure; <br> (c) <strong>Detection head</strong> corresponds to a simplified dual-layer output.
 </p>
 
